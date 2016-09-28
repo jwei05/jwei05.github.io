@@ -1,0 +1,44 @@
+.normal {
+	font-size: 12pt;
+	font-family: "Times New Roman", Georgia, Serif;
+	line-height: 1;
+}
+
+#name {
+	font-size: 20pt;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-seri;;
+    text-align: center;
+}
+
+.contact {
+	text-align: center;
+}
+
+ul {
+	line-height: 20px;
+}
+
+ol {
+	line-height: 20px;
+}
+
+.fancy {
+    font-style: italic;
+}
+
+.right {
+	float: right;
+	margin-right: 5%;
+}
+
+p.fancy {
+	line-height: 1px;
+}
+
+
+.topic {
+	font-size: 12pt;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-seri;
+	text-decoration: underline;
+}
+

@@ -1,0 +1,25 @@
+p {
+	font-size: 12pt;
+	font-family: "Times New Roman", Georgia, Serif;
+	line-height: 1;
+}
+
+#cloud {
+	color: #abc3ea;
+}
+
+#deep {
+	color: #6d0972;
+}
+
+#romantic {
+	color: #db4355;
+}
+
+#strong {
+	color: #31c648;
+}
+
+#cool {
+	color: #f79e0e;
+}
