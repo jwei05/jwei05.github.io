@@ -1,0 +1,17 @@
+body {
+	background-color: #8eb7f9;
+	text-align: center;
+}
+
+a {
+	font-size: 16pt;
+	text-decoration: none;
+	color: brown;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-seri;
+}
+
+.name {
+	font-size: 25pt;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-seri;
+	color: brown;
+}
